@@ -29,7 +29,7 @@ module.exports = {
     try {
       await video.save();
 
-      return res.status(201).json({ message: "Video added succesfully!" });
+      return res.status(201).json({ message: "Video added successfully!" });
     } catch (err) {
       res.status(400).json({ error: err.message });
     }
@@ -49,7 +49,7 @@ module.exports = {
 
     try {
       await res.video.save()
-      return res.status(200).json({ message: "Video updated succesfully!" });
+      return res.status(200).json({ message: "Video updated successfully!" });
     } catch (err) {
       res.status(500).json({ error: err.message })
     }
@@ -58,7 +58,7 @@ module.exports = {
   async delete(req, res) {
     try {
       await res.video.remove();
-      return res.status(200).json({ message: "Video removed succesfully!" });
+      return res.status(200).json({ message: "Video removed successfully!" });
     } catch (err) {
       return res.status(500).json({ error: err.message });
     }
