@@ -41,11 +41,11 @@ O código e a UI foram feitas inteiramente em inglês, buscando aperfeiçoar a d
 \
 [EN] - Simple app to save video links. You can add new video cards, as well as delete, edit and like the existent ones. The app was built with the intention to practice Node.js API Rest basic concepts, like:
 
-- CRUD creation in Node.js
-- Express routing
-- Insomnia for backend development without a built front
-- HTTP methods
-- Backend release for CORS
+- CRUD creation in Node.js;
+- Express routing;
+- Insomnia for backend development without a built front;
+- HTTP methods;
+- Backend release for CORS.
 
 Code & UI made in english for practicing and showcase purposes.
 
