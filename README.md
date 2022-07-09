@@ -1,8 +1,7 @@
 # Videoteca
 
 
-[PT-BR] - Aplicação de estudo desenvolvida em React & Node.js com o intuito de praticar e fixar conceitos web das tecnologias
-Tecnologias utilizadas.
+[PT-BR] - Aplicação de estudo desenvolvida em React & Node.js com o intuito de praticar e fixar conceitos web das tecnologias utilizadas.
 
 ---
 
