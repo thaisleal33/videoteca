@@ -47,5 +47,5 @@ O código e a UI foram feitas inteiramente em inglês, buscando aperfeiçoar a d
 - HTTP methods;
 - Backend release for CORS.
 
-Code & UI made in english for practicing and showcase purposes.
+Code & UI written in english for practicing and showcase purposes.
 
